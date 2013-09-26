@@ -1,28 +1,4 @@
 {
-DisplayStrings = (
-n,
-o,
-b,
-p,
-q,
-i,
-r,
-M,
-R,
-s,
-t,
-u,
-v,
-w,
-f,
-x,
-y,
-z,
-m,
-A,
-B,
-l
-);
 copyright = "\U00A92013 Ben Dunkle. All rights reserved.";
 date = "2013-09-21 13:59:26 +0000";
 designer = "Ben Dunkle";
