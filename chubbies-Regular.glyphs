@@ -1,6 +1,7 @@
 {
 DisplayStrings = (
 e,
+i,
 k
 );
 copyright = "\U00A92013 Ben Dunkle. All rights reserved.";
@@ -1005,7 +1006,7 @@ unicode = 0068;
 },
 {
 glyphname = i;
-lastChange = "2013-09-25 19:23:24 -0500";
+lastChange = "2013-09-26 01:39:53 -0500";
 layers = (
 {
 layerId = "D2F4DDDF-B441-4F85-9E4F-6DBCE838F50A";
@@ -1014,11 +1015,11 @@ paths = (
 {
 closed = 1;
 nodes = (
-"606 1048 OFFCURVE",
-"463 1952 OFFCURVE",
-"1024 1952 CURVE SMOOTH",
-"1585 1952 OFFCURVE",
 "1442 1048 OFFCURVE",
+"1585 1952 OFFCURVE",
+"1024 1952 CURVE SMOOTH",
+"463 1952 OFFCURVE",
+"606 1048 OFFCURVE",
 "1024 1048 CURVE SMOOTH"
 );
 },
